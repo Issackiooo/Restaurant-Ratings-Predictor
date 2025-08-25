@@ -1,4 +1,4 @@
-![Restaurant Ratings Predictor](screenshot.png.png)
+![Restaurant Ratings Predictor](screenshot.png)
 
 To try this project on your own computer:
 
