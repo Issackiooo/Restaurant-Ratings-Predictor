@@ -1,4 +1,4 @@
-🍽️ Restaurant Rating Predictor
+# 🍽️ Restaurant Rating Predictor
 
 This project is a Streamlit web app that predicts restaurant ratings using a trained machine learning model.
 It takes inputs like cuisine type, price range, and location, then outputs a predicted rating.
