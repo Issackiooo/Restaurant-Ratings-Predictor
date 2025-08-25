@@ -8,12 +8,12 @@ Open a terminal inside the folder.
 
 Run this command to install everything:
 
-#pip install -r requirements.txt
+# pip install -r requirements.txt
 
 
 Then start the app with:
 
-#streamlit run app.py
+# streamlit run app.py
 
 
 That’s it! The app will open in your browser at http://localhost:8501.
