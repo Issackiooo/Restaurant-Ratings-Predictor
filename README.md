@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Rating Predictor
+![Restaurant Ratings Predictor](screenshot.png.png)
 
 To try this project on your own computer:
 
